@@ -1,4 +1,4 @@
-module go_snake
+module github.com/ice-rider/go_snake
 
 go 1.25.5
 
