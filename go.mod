@@ -1,4 +1,4 @@
-module snake
+module go_snake
 
 go 1.25.5
 
