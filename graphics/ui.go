@@ -4,7 +4,7 @@ import (
 	"time"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"snake/core"
+	"github.com/ice-rider/go_snake/core"
 )
 
 type Model struct {
